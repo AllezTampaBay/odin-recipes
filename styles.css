@@ -1,3 +1,12 @@
-.list {
-    background-color: green;
+h1 {
+    text-align: center;
+}
+
+.contents {
+    display: flex;
+    background-color: lightblue;
+    font-size: 20px;
+    flex-direction: row;
+    gap: 50px;
+    
 }
